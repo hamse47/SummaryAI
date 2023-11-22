@@ -54,9 +54,13 @@ Before you start, ensure you have the following installed:
 We welcome contributions to make SummarAI even better. Here's how you can contribute:
 
 Fork the repository.
+
 Create a new branch (git checkout -b feature/AmazingFeature).
+
 Commit your changes (git commit -m 'Add some AmazingFeature').
+
 Push to the branch (git push origin feature/AmazingFeature).
+
 Open a pull request.
 ## Contact 📧
 For inquiries or feedback, please reach out to me at hamsenasir97@gmail.com.
