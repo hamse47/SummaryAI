@@ -18,8 +18,6 @@ Welcome to **SummarAI**, your go-to solution for navigating the ocean of informa
 
 - **AI and Natural Language Processing:** Leveraging cutting-edge AI techniques for efficient text summarization.
 - **React:** Utilizing React for a dynamic and responsive front-end.
-- **Node.js and Express:** Backend built with Node.js and Express for robust server-side operations.
-- **Database:** Storing and managing user data efficiently.
 
 ## Prerequisites 📋
 
