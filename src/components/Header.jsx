@@ -31,8 +31,8 @@ const Header = () => {
 
       {/* Description text explaining the purpose of the Summrize application */}
       <h2 className="desc">
-        Simplify your reading with Summrize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+        Simplify your reading with SummaryAI, an open-source article summarizer
+        that transforms lengthy articles into clear and concise summaries.
       </h2>
     </header>
   );
