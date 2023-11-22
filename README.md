@@ -40,7 +40,7 @@ Before you start, ensure you have the following installed:
 ```
 ## Start the server::
 ```bash
-   npm start
+   npm run dev
 ```
 ## Project Screenshots 📸
   ## ↘️SummarAI Home Page (summarise quantum computing from IBM website)
