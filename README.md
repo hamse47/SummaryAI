@@ -1,7 +1,6 @@
-![image](https://github.com/hamse47/SummaryAI/assets/78507974/2c9cbba6-0d36-4cb3-ae5b-b68100ca77a1) # SummarAI
-
+# SummarAI
 <p align="center">
-  <img width="700" height="500" alt="SummarAI Preview" src="https://github.com/hamse47/SummaryAI/assets/78507974/c82c37a0-c23a-4c09-99e0-0d270eaadcef">
+  <img width="900" height="700" alt="SummarAI Preview" src="https://github.com/hamse47/SummaryAI/assets/78507974/c82c37a0-c23a-4c09-99e0-0d270eaadcef">
 </p>
 
 ## Description 📚
@@ -33,21 +32,23 @@ Before you start, ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/SummarAI.git
 ```
-**Navigate to the project directory
+## Navigate to the project directory
 ```bash
    cd SummarAI
 ```
-**Install dependencies:
+## Install dependencies:
 ```bash
    npm install
 ```
-**Start the server::
+## Start the server::
 ```bash
    npm start
 ```
-Visit http://localhost:3000 in your browser to use the app.
-** Project Screenshots 📸
-*SummarAI Home Page
-<img width="600" height="400" alt="SummarAI Preview" src="![image](https://github.com/hamse47/SummaryAI/assets/78507974/e6cf30f1-1474-4ddd-be46-cf4c85d33587)
-">
+## Project Screenshots 📸
+  ## ↘️SummarAI Home Page (summarise quantum computing from ibm)
+<img align="center" width="900" height="700" alt="SummarAI Example" src="https://github.com/hamse47/SummaryAI/assets/78507974/2c9cbba6-0d36-4cb3-ae5b-b68100ca77a1">
+
+## Summary Generation
+<img align="center" width="900" height="700" alt="SummarAI Result" src="https://github.com/hamse47/SummaryAI/assets/78507974/2d0096c9-bdfe-4729-b76a-e781e4f7037f">
+
 
