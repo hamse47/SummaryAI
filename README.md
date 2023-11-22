@@ -1,8 +1,7 @@
- # SummarAI
+![image](https://github.com/hamse47/SummaryAI/assets/78507974/2c9cbba6-0d36-4cb3-ae5b-b68100ca77a1) # SummarAI
 
 <p align="center">
-  <img width="553" height="350" alt="SummarAI Preview" src="https://github.com/hamse47/SummaryAI/assets/78507974/c82c37a0-c23a-4c09-99e0-0d270eaadcef)
-">
+  <img width="700" height="500" alt="SummarAI Preview" src="https://github.com/hamse47/SummaryAI/assets/78507974/c82c37a0-c23a-4c09-99e0-0d270eaadcef">
 </p>
 
 ## Description 📚
@@ -30,6 +29,25 @@ Before you start, ensure you have the following installed:
 
 ## Installation and Usage 🚀
 
-1. **Clone the repository:**
+ **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/SummarAI.git
+```
+**Navigate to the project directory
+```bash
+   cd SummarAI
+```
+**Install dependencies:
+```bash
+   npm install
+```
+**Start the server::
+```bash
+   npm start
+```
+Visit http://localhost:3000 in your browser to use the app.
+** Project Screenshots 📸
+*SummarAI Home Page
+<img width="600" height="400" alt="SummarAI Preview" src="![image](https://github.com/hamse47/SummaryAI/assets/78507974/e6cf30f1-1474-4ddd-be46-cf4c85d33587)
+">
+
