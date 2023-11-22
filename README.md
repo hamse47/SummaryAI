@@ -28,11 +28,11 @@ Before you start, ensure you have the following installed:
 
  **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/SummarAI.git
+   git clone https://github.com/your-username/SummaryAI.git
 ```
 ## Navigate to the project directory
 ```bash
-   cd SummarAI
+   cd SummaryAI
 ```
 ## Install dependencies:
 ```bash
@@ -43,11 +43,11 @@ Before you start, ensure you have the following installed:
    npm run dev
 ```
 ## Project Screenshots 📸
-  ## ↘️SummarAI Home Page (summarise quantum computing from IBM website)
-<img align="center" width="900" height="700" alt="SummarAI Example" src="https://github.com/hamse47/SummaryAI/assets/78507974/d11bbb38-c8f2-460e-a105-ac98fe38cea0">
+  ## ↘️SummaryAI Home Page (summarise quantum computing from IBM website)
+<img align="center" width="900" height="700" alt="SummaryAI Example" src="https://github.com/hamse47/SummaryAI/assets/78507974/d11bbb38-c8f2-460e-a105-ac98fe38cea0">
 
 ## Summary Generation
-<img align="center" width="900" height="700" alt="SummarAI Result" src="https://github.com/hamse47/SummaryAI/assets/78507974/2d0096c9-bdfe-4729-b76a-e781e4f7037f">
+<img align="center" width="900" height="700" alt="SummaryAI Result" src="https://github.com/hamse47/SummaryAI/assets/78507974/2d0096c9-bdfe-4729-b76a-e781e4f7037f">
 
 
 ## Contributing 🤝
