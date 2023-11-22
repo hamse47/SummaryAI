@@ -1,11 +1,11 @@
-# SummarAI
+# SummaryAI
 <p align="center">
-  <img width="800" height="600" alt="SummarAI Preview" src="https://github.com/hamse47/SummaryAI/assets/78507974/c82c37a0-c23a-4c09-99e0-0d270eaadcef">
+  <img width="800" height="600" alt="SummaryAI Preview" src="https://github.com/hamse47/SummaryAI/assets/78507974/c82c37a0-c23a-4c09-99e0-0d270eaadcef">
 </p>
 
 ## Description 📚
 
-Welcome to **SummarAI**, your go-to solution for navigating the ocean of information in today's fast-paced world. its harness the power of advanced AI to transform lengthy articles, reports, and documents into concise, easy-to-digest summaries. This tool is designed to help you quickly grasp the essence of complex texts, saving time and enhancing understanding.
+Welcome to **SummaryAI**, your go-to solution for navigating the ocean of information in today's fast-paced world. its harness the power of advanced AI to transform lengthy articles, reports, and documents into concise, easy-to-digest summaries. This tool is designed to help you quickly grasp the essence of complex texts, saving time and enhancing understanding.
 
 ## Features ✨
 
@@ -51,7 +51,7 @@ Before you start, ensure you have the following installed:
 
 
 ## Contributing 🤝
-We welcome contributions to make SummarAI even better. Here's how you can contribute:
+We welcome contributions to make SummaryAI even better. Here's how you can contribute:
 
 Fork the repository.
 
