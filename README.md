@@ -7,7 +7,8 @@
 
 Welcome to **SummaryAI**, your go-to solution for navigating the ocean of information in today's fast-paced world. its harness the power of advanced AI to transform lengthy articles, reports, and documents into concise, easy-to-digest summaries. This tool is designed to help you quickly grasp the essence of complex texts, saving time and enhancing understanding.
 
-## Check out the website: https://summary-article.netlify.app/ 
+
+## 🚀 Check out the website: https://summary-article.netlify.app/ 
 
 ## Features ✨
 
