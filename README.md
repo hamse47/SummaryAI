@@ -1,6 +1,6 @@
 # SummarAI
 <p align="center">
-  <img width="900" height="700" alt="SummarAI Preview" src="https://github.com/hamse47/SummaryAI/assets/78507974/c82c37a0-c23a-4c09-99e0-0d270eaadcef">
+  <img width="800" height="600" alt="SummarAI Preview" src="https://github.com/hamse47/SummaryAI/assets/78507974/c82c37a0-c23a-4c09-99e0-0d270eaadcef">
 </p>
 
 ## Description 📚
@@ -44,7 +44,8 @@ Before you start, ensure you have the following installed:
 ```
 ## Project Screenshots 📸
   ## ↘️SummarAI Home Page (summarise quantum computing from ibm)
-<img align="center" width="900" height="700" alt="SummarAI Example" src="https://github.com/hamse47/SummaryAI/assets/78507974/2c9cbba6-0d36-4cb3-ae5b-b68100ca77a1">
+<img align="center" width="900" height="700" alt="SummarAI Example" src="![image](https://github.com/hamse47/SummaryAI/assets/78507974/d11bbb38-c8f2-460e-a105-ac98fe38cea0)
+">
 
 ## Summary Generation
 <img align="center" width="900" height="700" alt="SummarAI Result" src="https://github.com/hamse47/SummaryAI/assets/78507974/2d0096c9-bdfe-4729-b76a-e781e4f7037f">
