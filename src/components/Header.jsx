@@ -29,7 +29,7 @@ const Header = () => {
         <span className="green_orange_gradient ">OpenAI GPT-4</span>
       </h1>
 
-      {/* Description text explaining the purpose of the Summrize application */}
+      {/* Description text explaining the purpose of the Summarize application */}
       <h2 className="desc">
         Simplify your reading with SummaryAI, an open-source article summarizer
         that transforms lengthy articles into clear and concise summaries.
