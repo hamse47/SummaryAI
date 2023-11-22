@@ -5,7 +5,7 @@
 
 ## Description 📚
 
-Welcome to **SummarAI**, your go-to solution for navigating the ocean of information in today's fast-paced world. We harness the power of advanced AI to transform lengthy articles, reports, and documents into concise, easy-to-digest summaries. Our tool is designed to help you quickly grasp the essence of complex texts, saving time and enhancing understanding.
+Welcome to **SummarAI**, your go-to solution for navigating the ocean of information in today's fast-paced world. its harness the power of advanced AI to transform lengthy articles, reports, and documents into concise, easy-to-digest summaries. This tool is designed to help you quickly grasp the essence of complex texts, saving time and enhancing understanding.
 
 ## Features ✨
 
