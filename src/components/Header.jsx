@@ -15,7 +15,7 @@ const Header = () => {
         <button
           type="button"
           onClick={() =>
-            window.open("https://github.com/TidbitsJS/Summrize", "_blank")
+            window.open("https://github.com/hamse47/SummaryAI", "_blank")
           }
           className="black_btn"
         >
