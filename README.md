@@ -64,3 +64,6 @@ For inquiries or feedback, please reach out to me at hamsenasir97@gmail.com.
 ## License 📜
 SummarAI is licensed under the MIT License - see the LICENSE file for details.
 
+```bash
+  WOW thanks you for taking your time two read
+```
