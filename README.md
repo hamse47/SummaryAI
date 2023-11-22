@@ -1,7 +1,8 @@
  # SummarAI
 
 <p align="center">
-  <img width="553" height="350" alt="SummarAI Preview" src="path_to_your_summarai_preview_image">
+  <img width="553" height="350" alt="SummarAI Preview" src="![image](https://github.com/hamse47/SummaryAI/assets/78507974/c82c37a0-c23a-4c09-99e0-0d270eaadcef)
+">
 </p>
 
 ## Description 📚
