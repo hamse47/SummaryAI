@@ -59,14 +59,8 @@ Commit your changes (git commit -m 'Add some AmazingFeature').
 Push to the branch (git push origin feature/AmazingFeature).
 Open a pull request.
 ## Contact 📧
-For inquiries or feedback, please reach out to me at your-email@example.com.
+For inquiries or feedback, please reach out to me at hamsenasir97@gmail.com.
 
 ## License 📜
 SummarAI is licensed under the MIT License - see the LICENSE file for details.
 
-
-```bash
-   Wow Thank you for taking your time to read
-```
-
-Make sure to replace `your-username/SummarAI`, `path_to_your_summarai_preview_image`, and other placeholders with the actual details and image paths of your project. This will give viewers a clear and engaging overview of what SummarAI offers.
