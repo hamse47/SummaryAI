@@ -50,3 +50,23 @@ Before you start, ensure you have the following installed:
 <img align="center" width="900" height="700" alt="SummarAI Result" src="https://github.com/hamse47/SummaryAI/assets/78507974/2d0096c9-bdfe-4729-b76a-e781e4f7037f">
 
 
+## Contributing 🤝
+We welcome contributions to make SummarAI even better. Here's how you can contribute:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/AmazingFeature).
+Commit your changes (git commit -m 'Add some AmazingFeature').
+Push to the branch (git push origin feature/AmazingFeature).
+Open a pull request.
+## Contact 📧
+For inquiries or feedback, please reach out to me at your-email@example.com.
+
+## License 📜
+SummarAI is licensed under the MIT License - see the LICENSE file for details.
+
+
+```bash
+   Wow Thank you for taking your time to read
+```
+
+Make sure to replace `your-username/SummarAI`, `path_to_your_summarai_preview_image`, and other placeholders with the actual details and image paths of your project. This will give viewers a clear and engaging overview of what SummarAI offers.
