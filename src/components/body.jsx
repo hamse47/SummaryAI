@@ -84,6 +84,7 @@ const Body = () => {
           {/* Submit button */}
           <button
             type="submit"
+            aria-label="Summarize article"
             className="submit_btn peer-focus:border-gray-700 peer-focus:text-gray-700"
           >
             <p>⇐</p>
