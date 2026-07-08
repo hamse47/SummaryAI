@@ -13,11 +13,17 @@ const Body = () => {
 
   // Effect hook to load articles from localStorage on component mount
   useEffect(() => {
-    const articlesFromLocalStorage = JSON.parse(
-      localStorage.getItem("articles")
-    );
-    if (articlesFromLocalStorage) {
-      setAllArticles(articlesFromLocalStorage);
+    // Guard against corrupted or unexpected data so a bad value
+    // in localStorage can't crash the app on mount
+    try {
+      const articlesFromLocalStorage = JSON.parse(
+        localStorage.getItem("articles")
+      );
+      if (Array.isArray(articlesFromLocalStorage)) {
+        setAllArticles(articlesFromLocalStorage);
+      }
+    } catch {
+      localStorage.removeItem("articles");
     }
   }, []);
 
