@@ -42,7 +42,8 @@ const Body = () => {
   };
 
   // Function to copy URL to clipboard and provide visual feedback
-  const handleCopy = (copyUrl) => {
+  const handleCopy = (e, copyUrl) => {
+    e.stopPropagation(); // Don't let the click also select the article card
     setCopied(copyUrl);
     navigator.clipboard.writeText(copyUrl);
     setTimeout(() => setCopied(false), 3000);
@@ -98,7 +99,7 @@ const Body = () => {
               onClick={() => setArticle(item)}
               className="link_card"
             >
-              <div className="copy_btn" onClick={() => handleCopy(item.url)}>
+              <div className="copy_btn" onClick={(e) => handleCopy(e, item.url)}>
                 <img
                   src={copied === item.url ? tick : copy}
                   alt={copied === item.url ? "tick_icon" : "copy_icon"}
