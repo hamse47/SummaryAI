@@ -41,6 +41,12 @@ Before you start, ensure you have the following installed:
 ```bash
    npm install
 ```
+## Configure your API key:
+Summaries are fetched from the RapidAPI [Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer) endpoint, so the app needs a key before it can return results.
+```bash
+   cp .env.example .env
+```
+Then open `.env` and set `VITE_RAPID_API_ARTICLE_KEY` to your key. Without it every summarise request is rejected by the API.
 ## Start the server::
 ```bash
    npm run dev
