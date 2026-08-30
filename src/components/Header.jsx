@@ -9,7 +9,7 @@ const Header = () => {
       {/* Navigation bar with logo and a GitHub button */}
       <nav className="flex justify-between items-center w-full mb-10 pt-3">
         {/* Logo image */}
-        <img src={logo} alt="sumz_logo" className="w-28 object-contain" />
+        <img src={logo} alt="SummaryAI" className="w-28 object-contain" />
 
         {/* Button to open the project's GitHub page in a new tab */}
         <button

@@ -66,7 +66,7 @@ const Body = () => {
           {/* Link icon inside the input field */}
           <img
             src={linkIcon}
-            alt="link-icon"
+            alt=""
             className="absolute left-0 my-2 ml-3 w-5 mt-0.5"
           />
 
@@ -101,7 +101,7 @@ const Body = () => {
               <div className="copy_btn" onClick={() => handleCopy(item.url)}>
                 <img
                   src={copied === item.url ? tick : copy}
-                  alt={copied === item.url ? "tick_icon" : "copy_icon"}
+                  alt={copied === item.url ? "URL copied" : "Copy URL"}
                   className="w-[40%] h-[40%] object-contain"
                 />
               </div>
@@ -116,7 +116,11 @@ const Body = () => {
       {/* Section to display the summary of the selected article */}
       <div className="my-10 max-w-full flex justify-center items-center">
         {isFetching ? (
-          <img src={loader} alt="loader" className="w-20 h-20 object-contain" />
+          <img
+            src={loader}
+            alt="Loading summary"
+            className="w-20 h-20 object-contain"
+          />
         ) : error ? (
           <p className="font-inter font-bold text-black text-center">
             Well, that wasn't supposed to happen...
