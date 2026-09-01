@@ -122,7 +122,10 @@ const Body = () => {
             Well, that wasn't supposed to happen...
             <br />
             <span className="font-satoshi font-normal text-gray-700">
-              {error?.data?.error}
+              {/* Network and auth failures carry no data payload, so fall back
+                  to a readable message instead of rendering nothing */}
+              {error?.data?.error ||
+                "The article could not be summarized. Please check the link and try again."}
             </span>
           </p>
         ) : (
