@@ -1,4 +1,3 @@
-import React from "react";
 import { logo } from "../assets";
 
 // The Header component is a functional component that represents the header section of a webpage.
